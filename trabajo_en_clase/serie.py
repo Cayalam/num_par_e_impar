@@ -67,5 +67,10 @@ for i in range(1,N+1):
         s=s+str(5*i-2)
         
 print(s)
-# Ejercisio No.8:
+# Ejercicio No.1:
+#  Se ingresa los elementos de la tupla a travès de una variable.
+Tupla1=("Carrro", "Perro", "Avión")
+print(Tupla1)
+#Después de haber nombrado la tupla se imprime y se obtiene el resultado:
+#(“Carro”,”Perro”,”Avión”)
 
